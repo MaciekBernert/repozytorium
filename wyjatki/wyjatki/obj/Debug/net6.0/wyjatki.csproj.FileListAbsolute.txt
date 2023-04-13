@@ -1,0 +1,15 @@
+S:\prog. obiekt\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.exe
+S:\prog. obiekt\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.deps.json
+S:\prog. obiekt\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.runtimeconfig.json
+S:\prog. obiekt\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.dll
+S:\prog. obiekt\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.pdb
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.csproj.AssemblyReference.cache
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfoInputs.cache
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfo.cs
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.csproj.CoreCompileInputs.cache
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.dll
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\refint\wyjatki.dll
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.pdb
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.genruntimeconfig.cache
+S:\prog. obiekt\wyjatki\wyjatki\obj\Debug\net6.0\ref\wyjatki.dll
